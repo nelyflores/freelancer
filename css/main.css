@@ -1,0 +1,103 @@
+/*
+ * Estilos de tu proyecto
+ */
+ * {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  /* Establece la fuente de Google aquí */
+  margin: 0 auto;
+  font-size: 16px;
+  line-height: 1.71429;
+  background-color: #fff;
+}
+
+img {
+  vertical-align: middle;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+   background-color: #18BC9C ;
+}
+.link{
+  font-weight: 700;
+  padding: 21px;
+}
+header{
+position: fixed;
+  background: #283145;
+  width: 100%;
+  top: 0;
+
+}
+.color{
+  background-color:#19c3a8;
+}
+.fuente{
+  color: white;
+}
+.alinear{
+  text-align: center;
+}
+#menu{
+  font-size: 66px;
+}
+#menu2{
+  font-size: 35px;
+}
+input{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid #EEEEEE;
+}
+textarea{
+  width: 100%;
+    height: 150px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid #EEEEEE;
+}
+footer{
+  background:  #283145;
+}
+.end{
+  background: #233140;
+}
+.familiafuente{
+font-family: 'Montserrat', sans-serif;
+}
+.familiafuentedos{
+font-family: 'Lato', sans-serif;
+}
+.tamano{
+  font-size: 24px;
+}
+.subtitulo{
+  font-size: 42px;
+}
+.contacto{
+  font-size: 20px;
+}
+.copy{
+  font-size: 14px;
+}
