@@ -50,6 +50,7 @@ position: fixed;
 }
 .fuente{
   color: white;
+
 }
 .alinear{
   text-align: center;
@@ -97,7 +98,63 @@ font-family: 'Lato', sans-serif;
 }
 .contacto{
   font-size: 20px;
+
 }
 .copy{
   font-size: 14px;
+}
+.estrella{
+height:  60px;
+}
+.boton3 {
+  color: white !important;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 0.5em 1.2em;
+
+  background: rgba(0,0,0,0);
+  border: 2px solid;
+  border-color: white;
+  border-radius: 10px;
+  transition: all 1s ease;
+
+}
+.boton3:hover {
+  background: white;
+  color: #19c3a8 !important;
+}
+.boton1{
+  background-color:#19c3a8;
+  font-size: 18px;
+  padding: 8px;
+  border-radius: 7px;
+  border: none;
+
+}
+.boton1:hover {
+background-color:#139681;
+
+}
+.raya{
+  padding: 5px;
+  width: 150px;
+  height: 60px;
+}
+.estrella{
+  padding: 5px;
+}
+.circulo {
+  height:50px;
+  width: 50px;
+  display: table-cell;
+  text-align: center;
+  font-size:20px;
+  vertical-align: middle;
+  border-radius: 50%;
+border: 2px solid white;
+align-content: center;
+}
+.circulo:hover{
+background-color:  white;
+  color:#19c3a8;
 }
